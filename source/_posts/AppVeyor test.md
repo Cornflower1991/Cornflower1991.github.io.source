@@ -1,5 +1,5 @@
 ---
-title: android-tips
+title: CI自动部署hexo
 date: 2018-04-25 15:16:00
 tags: [CI]
 ---
